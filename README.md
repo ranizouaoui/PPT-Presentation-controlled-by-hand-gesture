@@ -12,4 +12,4 @@ pip install cvzone
 
 pip install aspose.slides 
  
-pip freeze
+pip freeze# PPT-Presentation-controlled-by-hand-gesture
